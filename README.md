@@ -5,6 +5,7 @@ This is the repository for the Assignment of the Coursera course "Getting and Cl
 In this assignment, you should write an R script, that converts a dataset into a tidy dataset.
 
 A dataset is said to be tidy if it satisfies the following conditions
+
 1. observations are in rows
 2. variables are in columns
 3. contained in a single dataset.
